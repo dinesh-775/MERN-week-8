@@ -1,0 +1,29 @@
+### Create user
+POST http://localhost:4000/user-api/user
+Content-Type: application/json
+
+{
+    "name":"Dinesh",
+    "email":"23eg112e48@gmail.com",
+    "mobilenumber":6304766393,
+    "dateofbirth":"07-07-2005"
+}
+
+
+### Create user
+POST http://localhost:4000/user-api/user
+Content-Type: application/json
+
+{
+    "name":"shiva",
+    "email":"23eg112e50@gmail.com",
+    "mobilenumber":7098558987,
+    "dateofbirth":"17-08-2025"
+}
+
+
+### Read Users
+GET http://localhost:4000/user-api/users
+
+
+### Read user by ID
