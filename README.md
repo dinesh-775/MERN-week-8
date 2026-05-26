@@ -25,3 +25,6 @@ API Endpoints
 POST /user-api/user → Add user
 GET /user-api/users → Get all users
 DELETE /user-api/users/:id → Delete user
+
+
+week-8 Deployment link : https://user-management-front-end-ten.vercel.app/adduser
